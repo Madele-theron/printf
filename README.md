@@ -1,7 +1,7 @@
 # ALX Project - C - printf
 ### This is a group project between [Mahmud](https://github.com/Mahmud1087) and [Madele](https://github.com/Madele-theron)
 
-#### This project's outcome is to write out own printf function
+#### This project's outcome is to write our own printf function
 
 ##### Requirements:
 * Allowed editors: vi, vim, emacs
