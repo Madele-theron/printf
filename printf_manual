@@ -1,0 +1,24 @@
+.TH man 1 "17 March 2020" "0.1" "_printf man page"
+.SH NAME
+.B _Printf
+- format and print data.
+.SH SYNOPSIS
+_printf FORMAT [ARGUMENT]...
+.SH DESCRIPTION
+
+Print ARGUMENT(s) according to FORMAT
+
+.B Conversion specifiers
+
+    A character that specifies the type of conversion to be applied.
+
+.B The conversion specifiers and their meanings are:
+
+   c =    The int argument is converted to an unsigned char, and the resulting character is written. 
+   s =    The each int arguments is converted to an unsigned char, and the resulting each character is written.
+   i =    The each int arguments is converted to the equivalent number in ascii code as char, and the resulting each character is written.
+   d =    The each int arguments is converted to the equivalent number in ascii code as char, and the resulting each character is written.
+   % =    No argument expected..
+
+.SH AUTHOR
+Alejandro Ramírez Ciceros, Marlon Aurelio García Morales.
